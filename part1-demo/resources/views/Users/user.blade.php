@@ -7,6 +7,9 @@
 </head>
 <body>
     <h1>Reina Chloe Magpantay</h1>
-    <marquee direction="left">gebfvdfdfvdbh dnksvbhjnsbhsjkvbhknv sfv sc adkcbhadv chbvsdhbvhsvfbfsvjksf vndf vjksfbvhfvhkhsvjkbsdjkvbds</marquee>
+    <marquee direction="left">HELLO, EVERYONEEEEEEE! I AM REIIIIIIIIIIII :>></marquee>
 </body>
 </html>
+
+
+

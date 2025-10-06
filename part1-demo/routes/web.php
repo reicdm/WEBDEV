@@ -38,3 +38,7 @@ Route::get('/admin/edit', function(){
 Route::fallback(function(){
     return redirect()->route('userName');
 });
+
+Route::get('/dashboard', function(){
+    return view('dashboard');
+});
